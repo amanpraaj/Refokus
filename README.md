@@ -59,7 +59,7 @@ Refokus/
 ### Installation
 1. Clone the repository:
 	```powershell
-	git clone <repo-url>
+	git clone https://github.com/amanpraaj/Refokus.git
 	cd Refokus
 	```
 2. Install dependencies:
